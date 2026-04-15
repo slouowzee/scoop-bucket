@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0-beta.5",
+    "version": "1.0.0-beta.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/slouowzee/KAPI/releases/download/v1.0.0-beta.5/KAPI_windows_amd64.zip",
+            "url": "https://github.com/slouowzee/KAPI/releases/download/v1.0.0-beta.6/KAPI_windows_amd64.zip",
             "bin": [
                 "kapi.exe"
             ],
-            "hash": "88c04de438f8eb22248fd619ddd2e136fd227ea69bd3bbdc5bf05c2da2dc5a34"
+            "hash": "ce2c1de1a910976684b550bf076642ab53918e0e9920c3d585adf5f14c7dc759"
         }
     },
     "homepage": "https://github.com/slouowzee/kapi",
